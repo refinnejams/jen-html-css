@@ -1,2 +1,3 @@
-HTML Practice
+Setting Up an HTML Project
+
 
